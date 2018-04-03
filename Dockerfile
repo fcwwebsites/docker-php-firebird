@@ -3,6 +3,7 @@ MAINTAINER Feijao Costa <feijao@feijaocosta.com.br>
 
 ENV DEBIAN_FRONTEND noninteractive
 
+
 # Install nginx, php5, php interbase/firebird module and supervisor
 RUN \
   apt-get update && \
