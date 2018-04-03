@@ -1,7 +1,7 @@
 # PHP with Firebird module Dockerfile
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/almeida/php-firebird.svg)](https://hub.docker.com/r/almeida/php-firebird/)
-[![Docker Stars](https://img.shields.io/docker/stars/almeida/php-firebird.svg)](https://hub.docker.com/r/almeida/php-firebird/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/fcwwebsites/php-firebird-mysql.svg)](https://hub.docker.com/r/fcwwebsites/php-firebird-mysql/)
+[![Docker Stars](https://img.shields.io/docker/stars/fcwwebsites/php-firebird-mysql.svg)](https://hub.docker.com/r/fcwwebsites/php-firebird-mysql/)
 
 ## Description
 
